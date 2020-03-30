@@ -7,7 +7,7 @@ Los requerimientos se han dividido en dos niveles de dificultad.
 ## Requerimientos: Nivel 1
 
 -   [ ] Una noticia falsa estará compuesta por un titular, una descripción, nombre del medio que la ha publicado, el enlace donde ha sido publicada, fecha de publicación y categoría.
--   [ ] Una categoría está formada por el nombre de categoría. Una noticia pertenece solo a una categoría (dentro de una categoría hay múltiples noticias).
+-   [ ] Una categoría está formada por el nombre de categoría. Una noticia pertenece únicamente a una categoría (dentro de una categoría hay múltiples noticias).
 -   [ ] Un usuario puede ver un listado de noticias falsas (su titular, fecha y categoría) en la página principal.
 -   [ ] Un usuario puede ver el resto de detalles (descripción y enlace) de la noticia haciendo click en ella. Los detalles se mostrarán en una nueva página.
 
